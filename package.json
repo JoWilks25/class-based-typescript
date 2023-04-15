@@ -9,6 +9,7 @@
     "conbine": "^5.0.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-redux": "^8.0.5",
     "react-router": "^4.3.1",
     "react-scripts": "^5.0.1",
     "redux": "^4.2.1",
